@@ -1,0 +1,23 @@
+.header{
+    color: black;
+    font-size:60px;
+    box-shadow: 5px 5px 5px rgb(20, 163, 173);
+}
+.header:hover{
+    font-size:70px;
+}
+body{
+    background-size:cover;
+    background-position: center;
+}
+.link{
+    font-size: 30px;
+    background: white;
+    border-radius:10px;
+    width:300px;
+    margin-top:15px;
+}
+.link:hover{
+    font-size:3 5px;
+    text-decoration:underline;
+}
